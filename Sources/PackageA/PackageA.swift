@@ -1,3 +1,6 @@
-struct PackageA {
-    var text = "Hello, World!"
+
+public struct PackageA {
+    public var text = "Hello, Cocoaheads!"
+    
+    public init() {}
 }
